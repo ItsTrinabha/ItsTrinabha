@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=C39BD3&center=true&vCenter=true&width=400&lines=🧠+SYSTEM+PROFILE"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=C39BD3&center=true&vCenter=true&width=400&lines=🧠PROFILE"/>
 </p>
 
 ```
@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=C39BD3&center=true&vCenter=true&width=400&lines=🚀+CURRENT+OPERATIONS"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=C39BD3&center=true&vCenter=true&width=400&lines=🚀PROJECTS"/>
 </p>
 
 ```
@@ -54,7 +54,7 @@ Goal:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=C39BD3&center=true&vCenter=true&width=400&lines=🌐+NETWORK+ACCESS"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=C39BD3&center=true&vCenter=true&width=400&lines=🌐LINKS"/>
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@ Goal:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=C39BD3&center=true&vCenter=true&width=400&lines=⚙️+TECH+ARSENAL"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=C39BD3&center=true&vCenter=true&width=400&lines=⚙️+TECH+STACK"/>
 </p>
 
 <p align="center">
@@ -85,7 +85,7 @@ Goal:
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=C39BD3&center=true&vCenter=true&width=400&lines=📊+SYSTEM+METRICS"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=C39BD3&center=true&vCenter=true&width=400&lines=📊METRICS"/>
 </p>
 
 <p align="center">

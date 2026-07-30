@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:9B59B6,100:000000&height=300&section=header&text=TRINABHA%20DIXIT&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%20Cybersecurity%20%7C%20Full-Stack%20Developer%20&descAlignY=58&descSize=20&fontFamily=Orbitron"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:C70039,100:000000&height=300&section=header&text=TRINABHA%20DIXIT&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%20Cybersecurity%20%7C%20Full-Stack%20Developer%20&descAlignY=58&descSize=20&fontFamily=Orbitron"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=800&color=C39BD3&center=true&vCenter=true&width=750&lines=✦+Cybersecurity;✦Backend+Developer;✦+Break+⚡+Build+⚡+Secure;✦+Always+Leveling+Up+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=800&color=FF5C5C&center=true&vCenter=true&width=750&lines=✦+Cybersecurity;✦Backend+Developer;✦+Break+⚡+Build+⚡+Secure;✦+Always+Leveling+Up+🚀"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-Cybersecurity-6A0DAD?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/FOCUS-Cybersecurity-8B0000?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/STACK-MERN-9B59B6?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/STACK-MERN-C70039?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/MINDSET-Break→Secure-6A0DAD?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/MINDSET-Break→Secure-8B0000?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/>
 </p>
 
 <br/>
@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=C39BD3&center=true&vCenter=true&width=400&lines=🧠PROFILE"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=FF5C5C&center=true&vCenter=true&width=400&lines=🧠PROFILE"/>
 </p>
 
 ```
@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=C39BD3&center=true&vCenter=true&width=400&lines=🚀PROJECTS"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=FF5C5C&center=true&vCenter=true&width=400&lines=🚀PROJECTS"/>
 </p>
 
 ```
@@ -54,7 +54,7 @@ Goal:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=C39BD3&center=true&vCenter=true&width=400&lines=🌐LINKS"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=FF5C5C&center=true&vCenter=true&width=400&lines=🌐LINKS"/>
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@ Goal:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=C39BD3&center=true&vCenter=true&width=400&lines=⚙️+TECH+STACK"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=FF5C5C&center=true&vCenter=true&width=400&lines=⚙️+TECH+STACK"/>
 </p>
 
 <p align="center">
@@ -85,7 +85,7 @@ Goal:
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=C39BD3&center=true&vCenter=true&width=400&lines=📊METRICS"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=FF5C5C&center=true&vCenter=true&width=400&lines=📊METRICS"/>
 </p>
 
 <p align="center">
@@ -100,7 +100,7 @@ Goal:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=C39BD3&center=true&vCenter=true&width=400&lines=🧠+ACTIVITY+GRAPH"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=FF5C5C&center=true&vCenter=true&width=400&lines=🧠+ACTIVITY+GRAPH"/>
 </p>
 
 <p align="center">
@@ -110,15 +110,15 @@ Goal:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=C39BD3&center=true&vCenter=true&width=400&lines=⚡+VISITOR+TRACE"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=FF5C5C&center=true&vCenter=true&width=400&lines=⚡+VISITOR+TRACE"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ItsTrinabha&style=for-the-badge&color=9B59B6&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=ItsTrinabha&style=for-the-badge&color=C70039&label=PROFILE+VIEWS"/>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:9B59B6,100:6A0DAD&height=160&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:C70039,100:8B0000&height=160&section=footer"/>
 </p>

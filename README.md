@@ -25,9 +25,9 @@
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <img src="./ascii.svg" width="860" alt="ascii portrait"/>
-</p>
+</p> -->
 
 <br/>
 

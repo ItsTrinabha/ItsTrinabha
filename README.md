@@ -1,4 +1,13 @@
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <img src="./light.svg" width="1180" alt="Trinabha Dixit — premium developer hero banner"/>
+  </picture>
+</p>
+
+<br/>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:C70039,100:000000&height=300&section=header&text=TRINABHA%20DIXIT&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%20Cybersecurity%20%7C%20Full-Stack%20Developer%20&descAlignY=58&descSize=20&fontFamily=Orbitron"/>
 </p>
 
